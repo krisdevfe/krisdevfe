@@ -1,41 +1,50 @@
 
-# Olá, eu me chamo Kristiane (mas pode chamar  de Kris!)
+👋🏼 Olá! Me chamo Kristiane (mas pode me chamar de Kris!)
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou em transição de carreira para a área de **Desenvolvimento Front-end**.
+### ✍🏻 Sobre mim
 
-Tenho uma paixão especial por **interfaces bem pensadas**, que unem estética, usabilidade e propósito. Comecei a explorar o mundo do código após criar o layout do site da minha antiga empresa — desde então, mergulhei de cabeça nesse universo.
+```txt
+• Estudante de Análise e Desenvolvimento de Sistemas
+• Ex-empresária, agora futura dev
+• Visual lover: Curto temas escuros, visuais suaves e organização simples
+• Cada repositório é uma etapa registrada do meu processo de evolução
+```
+---
+
+### 🧠 Aprendizados atuais
+
+- JavaScript (lógica e fundamentos)
+- HTML + CSS com foco em semântica e responsividade
+- UX/UI Design
+- Git e GitHub
+- Inglês técnico
 
 ---
 
-## **Aprendizados em andamento**
+### 📊 GitHub Stats
 
-- Lógica de Programação com **JavaScript**  
-- Estrutura e semântica em **HTML e CSS** 
-- Versionamento de código com **Git e GitHub**  
-- Inglês técnico para leitura e escrita em projetos
-
----
-
-## **Meus projetos mais recentes**
-
-Em breve, você vai ver por aqui:
-
-- Um **planner anual interativo**, com uma identidade visual intimista e minimalista
-- Mini projetos com foco em **componentização e responsividade**
-- Um portfólio pessoal com visual escuro e interface limpa
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krisdevfe&show_icons=true&hide_title=true&hide=issues&theme=dark&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krisdevfe&layout=compact&theme=dark&hide_border=true"/>
+</p>
 
 ---
 
-## **Sobre mim**
-
-- Gosto de estudar com calma e registrar o processo — cada repositório aqui é como uma **página de um diário dev**
-- Curto temas escuros, visuais suaves e organização simples
-- Acredito que aprender a programar é também aprender a **resolver problemas com criatividade**
-
----
-
-> _"A beleza do front-end está em transformar lógica em experiência."_  
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
+</p>
 
 ---
 
-**Em construção, mas com intenção.**
+<div>
+  <a href="https://www.linkedin.com/in/kris-almeida90/" target="_blank" ><img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+</div>
+
+
+<p align="center">
+  🌑 
+</p>
