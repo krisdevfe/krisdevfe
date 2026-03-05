@@ -1,9 +1,9 @@
 
-👋🏼 Olá! Me chamo Kristiane (mas pode me chamar de Kris!)
+# 👋🏼 Olá! Eu sou Kris (Kristiane Almeida)
 
 ***Transformando linhas de código em experiências visuais.***
 
-Em transição de carreira, unindo o olhar de empreendedora com a paixão por design e desenvolvimento front-end.
+Desenvolvedora Front-end em formação, apaixonada por criar interfaces modernas, organizadas e com foco na experiência do usuário. Em transição de carreira, trago minha experiência em design, branding e empreendedorismo para o desenvolvimento de produtos digitais.
 
 ### ✍🏻 Sobre mim
 
@@ -29,10 +29,10 @@ Em transição de carreira, unindo o olhar de empreendedora com a paixão por de
 ### 📂 Projetos
 
 🔹 **To do List:**
-Aplicação de gerenciamento de tarefas com armazenamento loal utilizando JavaScript.
+Aplicação de gerenciamento de tarefas com armazenamento local utilizando JavaScript.
 
 🔹 **Travel Planner:**
-Aplicação para organização de viagns com checlist de mala, planejamento de roteiro e controle de gastos.
+Aplicação para organização de viagens com checlist de mala, planejamento de roteiro e controle de gastos.
 
 🔹 **Dashboard de Estudos:**
 Painel para acompanhamento de progresso de aprendizado e organização de estudos.
