@@ -1,7 +1,8 @@
 
 Olá! Me chamo Kristiane (mas pode me chamar de Kris!) 👋🏼
 
-**Transformando linhas de código em experiências visuais.** 
+***Transformando linhas de código em experiências visuais.***
+
 Em transição de carreira, unindo o olhar de empreendedora com a paixão por design e desenvolvimento front-end.
 
 ### ✍🏻 Sobre mim
