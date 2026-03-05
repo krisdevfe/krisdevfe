@@ -1,5 +1,5 @@
 
-Olá! Me chamo Kristiane (mas pode me chamar de Kris!) 👋🏼
+👋🏼 Olá! Me chamo Kristiane (mas pode me chamar de Kris!)
 
 ***Transformando linhas de código em experiências visuais.***
 
