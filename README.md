@@ -8,10 +8,12 @@ Em transição de carreira, unindo o olhar de empreendedora com a paixão por de
 ### ✍🏻 Sobre mim
 
 ```txt
-🎓 **Estudante de Análise e Desenvolvimento de Sistemas**.
-💼 Ex-empreendedora, agora construindo meu futuro como **Desenvolvedora Front-end**.
-🎨 **Visual lover:** Defensora dos temas escuros, da organização limpa e da harmonia visual no código.
-🌱 **No momento, estou focada em:** dominar os fundamentos de **JavaScript**, escrever **HTML e CSS** semânticos e responsivos, e aprofundar meus conhecimentos em **UX/UI Design**.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas.
+🎯 Focada em Desenvolvimento Front-End
+🎨 Visual lover: Defensora dos temas escuros, da organização limpa e da harmonia visual no código.
+🌱 Atualmente estudando JavaScripte construindo projetos práticos.
+
+"Tenho interesse em desenvolver interfaces modernas, funcionais e com boa experiência para o usuário."
 ```
 ---
 
