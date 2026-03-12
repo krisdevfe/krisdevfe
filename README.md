@@ -28,8 +28,15 @@ Desenvolvedora Front-end em formação, apaixonada por criar interfaces modernas
 
 ### 📂 Projetos
 
-🔹 **To do List:**
-Aplicação de gerenciamento de tarefas com armazenamento local utilizando JavaScript.
+🔹 Daily Planner
+
+Aplicação web de gerenciamento de tarefas com armazenamento local.
+
+🛠 Tecnologias:
+HTML • CSS • JavaScript
+
+🔗 Código: https://github.com/krisdevfe/daily-planner  
+🌐 Demo: https://krisdevfe.github.io/daily-planner/
 
 🔹 **Travel Planner:**
 Aplicação para organização de viagens com checlist de mala, planejamento de roteiro e controle de gastos.
