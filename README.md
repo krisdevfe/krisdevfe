@@ -38,15 +38,6 @@ HTML • CSS • JavaScript
 🔗 Código: https://github.com/krisdevfe/daily-planner  
 🌐 Demo: https://krisdevfe.github.io/daily-planner/
 
-🔹 **Travel Planner:**
-Aplicação para organização de viagens com checlist de mala, planejamento de roteiro e controle de gastos.
-
-🔹 **Dashboard de Estudos:**
-Painel para acompanhamento de progresso de aprendizado e organização de estudos.
-
-🔹 **Landing Page Responsiva:**
-Projeto de interface webfocado em layout responsivo e boas práticas de UI.
-
 ---
 
 ### 📊 GitHub Stats
